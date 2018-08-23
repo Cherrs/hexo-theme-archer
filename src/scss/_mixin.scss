@@ -42,6 +42,15 @@
       color: #0cb49d;
     }
   }
+  .steam {
+    top: 3px * $scaleSize;
+    &::before {
+      content: '\e642';
+    }
+    &:hover::before {
+      color: #0cb49d;
+    }
+  }
   .github {
     &::before {
       font-size: 3.2rem * $scaleSize;
