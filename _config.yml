@@ -1,16 +1,17 @@
 # ========== Profile ========== #
 # avatar
-avatar: /avatar/Misaka.jpg
+avatar: /avatar/timg.jpg
 # author name
-author: fi3ework
+author: KuriyamaMirai
 # signature
-signature: witness me
+signature: 兽人永不为奴，除非包吃包住
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
-  github: //github.com/fi3ework
+  email: lovef@outlook.com
+  github: 
   # wechat and qq should be a path of qr-code image
-  wechat: /assets/example_qr.png
+  wechat:
+  steam: https://steamcommunity.com/id/daodai/
   qq: 
   weibo: 
   zhihu: 
@@ -22,28 +23,28 @@ social:
   segmentFault: 
   juejin: 
   v2ex: 
-  bilibili: 
+  bilibili:
   linkedin: 
   others: 
   rss: 
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
-  friendC: 
+#  friendA: //www.baidu.com
+ # friendB: //www.google.com
+ # friendC: 
 about:
-  enable: true
+  enable: false
   image: '/intro/about-bg.jpg'
 
 # ========== Site ========== #
 # title of the site
-SEO_title: fi3ework's Studio
+SEO_title: 
 # main title
-main_title: fi3ework's Studio.
+main_title: 芒果爆爆蛋去冰！
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: 兽人永不为奴，除非包吃包住
 # site haeder image
-site_header_image: '/intro/index-bg.jpg'
+site_header_image: '/intro/k-bg.jpg'
 # post haeder image
 post_header_image: '/intro/post-bg.jpg'
 # 404 image
